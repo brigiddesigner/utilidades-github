@@ -1,9 +1,9 @@
 <h1>Super lista de badges para personalizar o seu readme.md</h1>
-<h4><p>Se você gosta de personalizar seu readme.md, esta lista é para você, com vários subtópicos e recheada de badges</p><h4>
+<h4>Se você gosta de personalizar seu readme.md, esta lista é para você, com vários subtópicos e recheada de badges</h4>
 <h4>Como usar a lista</h4>
 
  
-<p>Basta copiar o link do badge do lado esquerdo da tabela da lista de badges e adicionar a uma tag <b>img</b>. <b>O markdown também suporta badges, basta pegar a tag do markdown e adicionar o link</b></p>
+<p>Basta copiar o link do badge do lado esquerdo da tabela da lista de badges e adicionar a uma tag img. O markdown também suporta badges, basta pegar a tag do markdown e adicionar o link</p>
 <p>Vocẽ tambem pode envolver a tag <b>img</b> com uma tag </a><b> a para redirecionar para o lugar que você bem enterder, até outro readme.md, basta pesquisar como fazer o link do readme do youtube</p>
 
 <h3>Outros badges que também são bem legais</h3> 
