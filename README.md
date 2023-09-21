@@ -3,5 +3,5 @@
 ##
 **Link: [Emojis](https://github.com/brigiddesigner/utilidades-github/blob/main/emojis/emoji.md)**
 
-**Link: [Emojis](https://github.com/brigiddesigner/utilidades-github/blob/main/lista_de_badges/basdges.md)**
+**Link: [Lista Enorme de Badges](https://github.com/brigiddesigner/utilidades-github/blob/main/lista_de_badges/basdges.md)**
 
